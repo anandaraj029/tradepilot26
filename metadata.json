@@ -1,0 +1,6 @@
+{
+  "name": "AI TradePilot",
+  "description": "AI-assisted trading & investment management with deterministic risk controls, paper trading, and multi-agent AI council.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

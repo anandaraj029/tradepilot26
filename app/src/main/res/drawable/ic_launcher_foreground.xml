@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Hexagonal glowing shield base -->
+    <path
+        android:pathData="M54,22 L78,34 L78,64 L54,86 L30,64 L30,34 Z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#3300F5D4"
+        android:fillColor="#1500F5D4" />
+
+    <!-- Pilot Wings / Ascending Trend vector -->
+    <!-- Left Wing -->
+    <path
+        android:pathData="M54,48 L32,38 L38,54 L54,58 Z"
+        android:fillColor="#00B4D8" />
+    <!-- Right Wing -->
+    <path
+        android:pathData="M54,48 L76,38 L70,54 L54,58 Z"
+        android:fillColor="#00F5D4" />
+
+    <!-- Central Candlestick / Jet fuselage -->
+    <path
+        android:pathData="M54,28 L54,76"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- Candlestick Bullish Body -->
+    <path
+        android:pathData="M50,42 L58,42 L58,62 L50,62 Z"
+        android:fillColor="#10B981" />
+
+    <!-- Secondary Candlesticks left & right -->
+    <!-- Left candlestick -->
+    <path
+        android:pathData="M42,46 L42,66"
+        android:strokeWidth="1.5"
+        android:strokeColor="#00B4D8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M40,50 L44,50 L44,60 L40,60 Z"
+        android:fillColor="#00B4D8" />
+
+    <!-- Right candlestick -->
+    <path
+        android:pathData="M66,38 L66,58"
+        android:strokeWidth="1.5"
+        android:strokeColor="#00F5D4"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M64,42 L68,42 L68,52 L64,52 Z"
+        android:fillColor="#00F5D4" />
+
+    <!-- Golden Pilot Star at the apex -->
+    <path
+        android:pathData="M54,20 L55.5,24.5 L60,24.5 L56.5,27 L58,31.5 L54,28.5 L50,31.5 L51.5,27 L48,24.5 L52.5,24.5 Z"
+        android:fillColor="#F59E0B" />
+</vector>
